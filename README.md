@@ -20,15 +20,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipplovve&layout=compact&theme=tokyonight" alt=vipplovve /> &nbsp; &nbsp; &nbsp;
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=vipplovve&show_icons=true&locale=en&theme=nightowl" alt="vipplovve" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshs16&layout=compact&theme=tokyonight" alt=vipplovve /> &nbsp; &nbsp; &nbsp;
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=harshs16&show_icons=true&locale=en&theme=nightowl" alt="vipplovve" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 <div align="center">
-<a href="https://github.com/vipplovve">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vipplovve&theme=gotham" height="180em" />
+<a href="https://github.com/harshs16">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshs16&theme=gotham" height="180em" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipplovve&label=Profile%20views&color=0e75b6&style=flat" alt="vipplovve" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipplovve&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh" /> </p>
