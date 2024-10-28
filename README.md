@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=900&size=28&pause=1000&color=9418F7&center=true&vCenter=true&random=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Harsh;I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibri&weight=900&size=28&pause=1000&color=9418F7&center=true&vCenter=true&random=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Harsh;I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshs16" alt="harshs16" /></a> </p>
