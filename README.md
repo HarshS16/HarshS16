@@ -29,5 +29,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshs16&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh" /> </p>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/yashksaini-coder?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true">
+</div>
 
 [![An image of @harshs16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshs16)](https://holopin.io/@harshs16)
