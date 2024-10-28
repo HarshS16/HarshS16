@@ -26,7 +26,7 @@
 </p>
 
 <a href="https://github.com/harshs16">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshs16&theme=gotham" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshs16&theme=tokyonight" height="180em" />
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshs16&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh" /> </p>
