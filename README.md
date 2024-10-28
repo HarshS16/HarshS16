@@ -8,7 +8,7 @@
 <a href="https://instagram.com/harsh_srivastava_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_srivastava_16" height="50" width="60" /></a> &nbsp; &nbsp;
 <a href="https://www.leetcode.com/harshs16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshs16" height="50" width="60" /></a>&nbsp; &nbsp;
 <a href="https://www.discordapp.com/users/harsh1606" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="harshs16" height="50" width="60" /></a>&nbsp; &nbsp;
-<a href="mailto:harshme08@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="harshs16" height="50" width="60" /></a>&nbsp; &nbsp;
+<a href="mailto:harshme08@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/images/email-icon" alt="harshs16" height="50" width="60" /></a>&nbsp; &nbsp;
 
   
 </p>
