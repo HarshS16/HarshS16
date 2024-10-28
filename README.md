@@ -27,4 +27,5 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshs16&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh" /> </p>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
-[![An image of @Harsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshs16)](https://holopin.io/@harshs16)
+
+[![An image of @harshs16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshs16)](https://holopin.io/@harshs16)
