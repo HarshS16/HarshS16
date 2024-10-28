@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A passionate Web Developer, Machine Learning & Data Science Enthusiast </h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshs16" alt="harshs16" /></a> </p>
