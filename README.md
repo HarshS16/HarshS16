@@ -17,8 +17,8 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshs16&layout=compact&theme=tokyonight" alt=vipplovve /> &nbsp; &nbsp; &nbsp;
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=harshs16&show_icons=true&locale=en&theme=nightowl" alt="vipplovve" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshs16&layout=compact&theme=tokyonight" alt=harshs16 /> &nbsp; &nbsp; &nbsp;
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=harshs16&show_icons=true&locale=en&theme=nightowl" alt="harsh s16" />
 </p>
 
 <a href="https://github.com/harshs16">
