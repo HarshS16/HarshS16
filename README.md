@@ -1,50 +1,25 @@
-<h1 align="center">👋 Hi! I'm Harsh :)</h1>
-<h3 align="center">A Passionate Web Developer, a Machine Learning & Data Science Enthusiast.</h3>
+<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshs16&label=Profile%20views&color=0e75b6&style=flat" alt="harshs16" /> </p>
 
-- 🔭 **I’m currently pursuing my Bachelor of Technology in Computer Sci. & Engineering at JSSATE, Noida.**
-- 🪼 **I Regularly Practice & Compete on various OJs and CP Platforms such as BaekJoon, Codeforces and AtCoder.**
-- 🧩 **My Preferred Languages include C++ & Python (PyPy).**
-- 🌱 **Currently learning & expanding my knowledge about ML & NLP, and their applications in real-world problem solving.**
-- 📝 **I'm the Head Manager & regularly write Articles on ThyEloquence : JIIT 128's Official LitSoc Society, Eloquence's very own Blog.**
-- 🔗 **You May Check It Out Here:** **https://thyeloquence.blogspot.com/**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshs16" alt="harshs16" /></a> </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<p align="left"> <a href="https://twitter.com/harshsr69382182" target="blank"><img src="https://img.shields.io/twitter/follow/harshsr69382182?logo=twitter&style=for-the-badge" alt="harshsr69382182" /></a> </p>
 
-</div><h3 align="center">Connect with Me: - </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/harsh-srivastava-51b67324a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Harsh Srivastava" height="50" width="60" /></a>  &nbsp; &nbsp;  &nbsp;<a href="https://www.leetcode.com/HarshS16" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Harsh" height="50" width="60" /></a> &nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-
-<h3 align="center">Languages and Tools That I Use: -</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" height="50" width="50"/> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" height="50" width="50""/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" height="50" width="50"/>&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" height="50" width="50"/>&nbsp; &nbsp;
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/harshsr69382182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshsr69382182" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh srivastava" height="30" width="40" /></a>
+<a href="https://instagram.com/harsh_srivastava_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_srivastava_16" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harshs16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshs16" height="30" width="40" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipplovve&layout=compact&theme=tokyonight" alt=vipplovve /> &nbsp; &nbsp; &nbsp;
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=vipplovve&show_icons=true&locale=en&theme=nightowl" alt="vipplovve" />
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-<div align="center">
-<a href="https://github.com/vipplovve">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vipplovve&theme=gotham" height="180em" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshs16&show_icons=true&locale=en&layout=compact" alt="harshs16" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshs16&show_icons=true&locale=en" alt="harshs16" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipplovve&label=Profile%20views&color=0e75b6&style=flat" alt="vipplovve" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshs16&" alt="harshs16" /></p>
