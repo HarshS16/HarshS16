@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/harshsr69382182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshsr69382182" height="50" width="60" /></a> &nbsp; &nbsp;
-<a href="https://linkedin.com/in/harsh srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh srivastava" height="50" width="60" /></a>
-<a href="https://instagram.com/harsh_srivastava_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_srivastava_16" height="50" width="60" /></a>
+<a href="https://linkedin.com/in/harsh srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh srivastava" height="50" width="60" /></a> &nbsp; &nbsp;
+<a href="https://instagram.com/harsh_srivastava_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_srivastava_16" height="50" width="60" /></a> &nbsp; &nbsp;
 <a href="https://www.leetcode.com/harshs16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshs16" height="50" width="60" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
