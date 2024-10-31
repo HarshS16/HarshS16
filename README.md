@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshs16" alt="harshs16" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60">
 <a href="https://twitter.com/harshsr69382182" target="blank"><img align="center" src="https://github.com/HarshS16/HarshS16/blob/main/x%20logo.png" alt="harshsr69382182" height="50" width="60" /></a> &nbsp; &nbsp;
 <a href="https://linkedin.com/in/harsh srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh srivastava" height="50" width="60" /></a> &nbsp; &nbsp;
 <a href="https://instagram.com/harsh_srivastava_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_srivastava_16" height="50" width="60" /></a> &nbsp; &nbsp;
