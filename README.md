@@ -53,4 +53,4 @@
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
 [![An image of @harshs16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshs16)](https://holopin.io/@harshs16)
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/harshs16/harshs16/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
