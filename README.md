@@ -13,7 +13,6 @@
 <a href="mailto:harshme08@gmail.com" target="blank"><img align="center" src="https://github.com/HarshS16/HarshS16/blob/main/gm.png" height="50" width="60"  ></a>&nbsp; &nbsp;
 <a href="https://github.com/HarshS16" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="harshs16" height="50" width="60" /></a>&nbsp; &nbsp;
 
-
   
 </p>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
