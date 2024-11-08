@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chokokutai&weight=900&size=30&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Harsh;I'm+a+Frontend+Web+Developer)](https://git.io/typing-svg)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshs16" alt="harshs16" /></a> </p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/harshsr69382182" target="blank"><img align="center" src="https://github.com/HarshS16/HarshS16/blob/main/x%20logo.png" alt="harshsr69382182" height="50" width="60" /></a> &nbsp; &nbsp;
@@ -10,7 +11,6 @@
 <a href="https://www.discordapp.com/users/harsh1606" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="harshs16" height="50" width="60" /></a>&nbsp; &nbsp;
 <a href="mailto:harshme08@gmail.com" target="blank"><img align="center" src="https://github.com/HarshS16/HarshS16/blob/main/gm.png" height="50" width="60"  ></a>&nbsp; &nbsp;
 <a href="https://github.com/HarshS16" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="harshs16" height="50" width="60" /></a>&nbsp; &nbsp;
-
   
 </p>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
