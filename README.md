@@ -2,7 +2,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshs16" alt="harshs16" /></a> </p>
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/harshsr69382182" target="blank"><img align="center" src="https://github.com/HarshS16/HarshS16/blob/main/x%20logo.png" alt="harshsr69382182" height="50" width="60" /></a> &nbsp; &nbsp;
