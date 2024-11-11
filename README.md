@@ -35,11 +35,13 @@
   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshs16&theme=midnight-purple" alt="Streak Stats"/>
 </td>
 </tr>
-  <tr>
-    <td>
-      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshs16&layout=compact&theme=midnight-purple" alt=harshs16 /> &nbsp; &nbsp; &nbsp;
-    </td>
-  </tr>
+</table>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshs16&layout=compact&theme=midnight-purple" alt=harshs16 /> &nbsp; &nbsp; &nbsp;
+</td>
+</tr>
 </table>
 </br>
 
