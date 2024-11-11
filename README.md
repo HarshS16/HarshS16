@@ -22,14 +22,14 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshs16&layout=compact&theme=tokyonight" alt=harshs16 /> &nbsp; &nbsp; &nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshs16&layout=compact&theme=midnight-purple" alt=harshs16 /> &nbsp; &nbsp; &nbsp;
 <img width="420em" height = "180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshs16&theme=midnight-purple" alt="Streak Stats"/>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=harshs16&show_icons=true&locale=en&theme=nightowl" alt="harsh s16" />
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=harshs16&show_icons=true&locale=en&theme=midnight-purple" alt="harsh s16" />
 </p>
 
 
 <a href="https://github.com/harshs16">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshs16&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshs16&theme=midnight-purple" height="180em" />
 </div>
   <br>
   <br>
