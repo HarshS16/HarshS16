@@ -37,6 +37,8 @@
 </tr>
 </table>
 </br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshs16&layout=compact&theme=midnight-purple" alt=harshs16 /> &nbsp; &nbsp; &nbsp;
+
 
 <h3 align="left">GSSOC(24) Badges 🪶</h3> 
 <div align='center' style='display:flex; align-items:center; gap: 10px;'>
