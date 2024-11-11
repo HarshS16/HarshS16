@@ -29,7 +29,8 @@
 
 
 <a href="https://github.com/harshs16">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshs16&theme=midnight-purple" height="180em" />
+<img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshs16&theme=2077" alt="Profile Summary">
+
 </div>
   <br>
   <br>
