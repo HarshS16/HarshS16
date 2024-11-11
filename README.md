@@ -43,9 +43,6 @@
 </td>
 </tr>
 </table>
-</br>
-
-
 <h3 align="left">GSSOC(24) Badges 🪶</h3> 
 <div align='center' style='display:flex; align-items:center; gap: 10px;'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
