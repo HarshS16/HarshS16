@@ -39,7 +39,7 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img height="180em" width ="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshs16&layout=compact&theme=midnight-purple" alt=harshs16 /> &nbsp; &nbsp; &nbsp;
+  <img height="180em" width ="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshs16&layout=compact&theme=midnight-purple" alt=harshs16 />
 </td>
 </tr>
 </table>
