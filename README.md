@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chokokutai&weight=900&size=30&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Harsh;I'm+a+Frontend+Web+Developer)](https://git.io/typing-svg)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshs16" alt="harshs16" /></a> </p>
  
-
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="53" height="53" align ='center' /> Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/harshsr69382182" target="blank"><img align="center" src="https://github.com/HarshS16/HarshS16/blob/main/x%20logo.png" alt="harshsr69382182" height="50" width="60" /></a> &nbsp; &nbsp;
