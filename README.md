@@ -34,7 +34,9 @@
 <td>
 <!--   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshs16&theme=midnight-purple" alt="Streak Stats"/>--!>
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=HarshS16&theme=shades-of-purple)](https://git.io/streak-stats)
+
+<img width="420em" src="https://streak-stats.demolab.com?user=HarshS16&theme=shades-of-purple" alt="Streak Stats"/>
+ 
 </td> -->
 </tr>
 </table>
