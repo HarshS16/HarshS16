@@ -36,10 +36,8 @@
 
 
 <img width="420em" src="https://streak-stats.demolab.com?user=HarshS16&theme=shades-of-purple" alt="Streak Stats"/>
-
-
  
-</td> -->
+</td>
 </tr>
 </table>
 <table width="100%" align="center">
