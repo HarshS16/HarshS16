@@ -32,10 +32,10 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=harshs16&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
 </td>
 <td>
-<!--   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshs16&theme=midnight-purple" alt="Streak Stats"/>--!>
+ <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshs16&theme=midnight-purple" alt="Streak Stats"/>
 
 
-<img width="420em" src="https://streak-stats.demolab.com?user=HarshS16&theme=shades-of-purple" alt="Streak Stats"/>
+<!---<img width="420em" src="https://streak-stats.demolab.com?user=HarshS16&theme=shades-of-purple" alt="Streak Stats"/>--->
  
 </td>
 </tr>
