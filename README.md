@@ -55,7 +55,7 @@
 </tr>
 </table>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="53" height="53" align ='center' /> GSSOC(24) Badges 🪶</h3> 
+<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="53" height="53" align ='center' /> GSSOC(24) Badges 🪶</h2> 
 <div align='center' style='display:flex; align-items:center; gap: 10px;'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -78,7 +78,7 @@
 </div>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="53" height="53" align ='center' /> HACKTOBERFEST (24) Badges 🪶</h3> 
+<h2 align="left"><img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="53" height="53" align ='center' /> HACKTOBERFEST (24) Badges 🪶</h2> 
 
 [![An image of @harshs16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshs16)](https://holopin.io/@harshs16)
 
