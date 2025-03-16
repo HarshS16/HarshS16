@@ -69,11 +69,12 @@
 </div>
 <br>
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshs16&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh" /> </p>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="53" height="53" align ='center' /> HACKTOBERFEST (24) Badges 🪶</h3> 
 <div align="center">
+ 
   <img src="https://ssr-contributions-svg.vercel.app/_/yashksaini-coder?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true">
 </div>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
