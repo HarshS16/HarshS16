@@ -20,7 +20,7 @@
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 <table width="100%" align="center">
  
- <h2> <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="53" height="53" align ='center' /> GITHUB STATS 🪶 </h2>  <p align='center'>
+ <h2>  GITHUB STATS 🪶 </h2>  <p align='center'>
 <tr>
 <td>
   <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshs16&theme=2077" alt="Profile Summary">
