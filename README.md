@@ -30,9 +30,7 @@
 
 <table width="100%" align="center">
 <tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=harshs16&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
-</td>
+
 <td>
 <!--  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshs16&theme=midnight-purple" alt="Streak Stats"/> -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HarshS16&theme=shades-of-purple" alt="GitHub Streak" /></a> -->
@@ -47,9 +45,7 @@
 </table>
 <table width="100%" align="center">
 <tr>
-<td>
-  <img height="180em" width ="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshs16&layout=compact&theme=midnight-purple" alt=harshs16 />
-</td>
+
 </tr>
 </table>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
