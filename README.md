@@ -76,3 +76,9 @@
 
 [![An image of @harshs16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshs16)](https://holopin.io/@harshs16)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+</picture>
+
