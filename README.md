@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=031DF7&center=true&vCenter=true&width=435&lines=Hi+!+I'm+Harsh;I'm+a++Full+Stack+Engineer)](https://git.io/typing-svg)
 
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b2266cb2-e677-4d92-b8fe-81f7f35fc2a9" />
 
 
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="53" height="53" align ='center' /> Connect with me:</h2>
+<h2 align="left"> Connect with me:</h2>
 <p align="center">
 <a href="https://x.com/Harsh_jsx" target="blank"><img align="center" src="https://github.com/HarshS16/HarshS16/blob/main/x%20logo.png" alt="harshsr69382182" height="50" width="60" /></a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/harsh-srivastava-51b67324a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh srivastava" height="50" width="60" /></a> &nbsp; &nbsp;
