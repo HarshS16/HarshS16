@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=031DF7&center=true&vCenter=true&width=435&lines=Hi+!+I'm+Harsh;I'm+a++Full+Stack+Engineer)](https://git.io/typing-svg)
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b2266cb2-e677-4d92-b8fe-81f7f35fc2a9" />
-
 
 
 <h2 align="left"> Connect with me:</h2>
