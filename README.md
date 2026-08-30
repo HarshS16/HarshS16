@@ -56,7 +56,7 @@
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="53" height="53" align='center' /> GSSOC(24) Badges 🪶</h2>
 
-<table align="center"><tr>
+<!-- <table align="center"><tr>
 <td><a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /></a></td>
 <td><a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" /></a></td>
 <td><a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" /></a></td>
@@ -64,7 +64,7 @@
 <td><a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" /></a></td>
 <td><a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a></td>
 <td><a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://github.com/HarshS16/HarshS16/blob/main/web3hack.png" width="100px" height="100px" /></a></td>
-</tr></table>
+</tr></table> -->
 
 <br>
 
